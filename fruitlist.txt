@@ -1,11 +1,6 @@
 satsuma
 salmon berry
 olive
-peach
-pear
-marion berry
-cantaloupe
-rambutan
 strawberry
 cucumber
 apple
@@ -80,8 +75,3 @@ jackfruit
 orange
 durian
 blueberry
-redcurrant
-kumquat
-currant
-fig
-watermelon
